@@ -581,5 +581,9 @@
       "google keep",
       "google notes"
     ]
+  },
+  "SilverArrowReader": {
+    "id": "silverarrow",
+    "author": "iporollo"
   }
 }
